@@ -1,0 +1,11 @@
+C:\Users\alexd\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\alexd\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\alexd\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\alexd\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\alexd\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Gameplay.resources
+C:\Users\alexd\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\alexd\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\alexd\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\alexd\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\alexd\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\alexd\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csprojAssemblyReference.cache
